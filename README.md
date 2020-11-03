@@ -17,6 +17,7 @@ Listen to some quality music while waiting for your food! Filter by region, for 
 - <b>react-router-dom</b> (DOM bindings for React Router. react-router-dom is made for "Web application")
 - <b>unDraw</b> (for SVG images)
 - <b>Prettier</b> (code formatter)
+- <b>Heroku</b> (deploy)
 
 ## Try it yourself
 
