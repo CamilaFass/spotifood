@@ -1,5 +1,5 @@
 .label {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
   margin-bottom: 7px;
   margin-right: 10px;
   text-align: left;
@@ -7,7 +7,7 @@
 
 .date {
   color: rgb(70, 70, 70);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   height: 35px;
   padding-left: 5px;
@@ -20,7 +20,7 @@
   border-width: 0px;
   color: rgb(0, 0, 0);
   cursor: pointer;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 12px;
   font-weight: bold;
   letter-spacing: 2px;

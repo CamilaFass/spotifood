@@ -1,10 +1,10 @@
 .login {
-  background-color: rgb(240, 76, 42);
+  background-color: #41f02a;
   border-radius: 100px;
   border-width: 0px;
   color: white;
   cursor: pointer;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -14,5 +14,5 @@
 }
 
 .login:hover {
-  background-color: rgb(210, 45, 35);
+  background-color: #41f02a;
 }

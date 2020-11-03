@@ -8,6 +8,8 @@ function Welcome() {
   function handleClick(event) {
     event.preventDefault();
 
+    const redirect_uri = "http://localhost:3000";
+
     // redirect to spotify login page
     window.open(
       "https://accounts.spotify.com/authorize?client_id=71cd775b7b2142ceabacbd1df8545ea5&response_type=token&redirect_uri=" +

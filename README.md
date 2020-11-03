@@ -17,11 +17,8 @@ Listen to some quality music while waiting for your food! Filter by region, for 
 - <b>react-router-dom</b> (DOM bindings for React Router. react-router-dom is made for "Web application")
 - <b>unDraw</b> (for SVG images)
 - <b>Prettier</b> (code formatter)
-- <b>Heroku</b> (deploy)
 
 ## Try it yourself
-
-Two options:
 
 - Fork this repo
 - git clone https://github.com/CamilaFass/spotifood
@@ -30,10 +27,14 @@ Two options:
 
 <br>
 
-Or
+### Next Steps
 
+- Make it responsive
+- Style colors better
+- Logout option
+
+### Final
+
+Thank you for the opportunity! It was a great challenge.
 <br>
-
-Try the live demo at:
-
-##
+You can find me on <a href="https://www.linkedin.com/in/fassarella/">LinkedIn</a>
