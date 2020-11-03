@@ -154,7 +154,7 @@ function Filter() {
 
   return (
     <div className="filterblock">
-      <p>Filtros</p>
+      <p>Filters</p>
       {/*component is loading: render spinner */}
       {isLoading && (
         <Loader color="#F04C2A" height={50} type="Oval" width={50} />

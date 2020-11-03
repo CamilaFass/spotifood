@@ -1,7 +1,7 @@
 import React from "react";
 import { Filter } from "./filter.js";
 import "./styles/sidebar.css";
-import icon from "../assets/spotifyicon.svg";
+import filterlogo from "../assets/filterlogo.svg";
 
 function Sidebar() {
   return (
@@ -9,7 +9,7 @@ function Sidebar() {
       <img
         alt="logo"
         className="sidelogo"
-        src={icon}
+        src={filterlogo}
         height="80"
         width="192"
       ></img>

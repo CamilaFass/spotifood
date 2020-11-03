@@ -40,7 +40,7 @@ function Welcome() {
 
   return (
     <div>
-      <img alt="logo" src={icon}></img>
+      <img alt="logo" src={icon} style={{ width: 400, maxWidth: "100%" }}></img>
       <p>Welcome to SPOTiFOOD! Please login with your Spotify account below</p>
       <button className="login" onClick={handleClick}>
         ENTER HERE

@@ -15,7 +15,7 @@ Listen to some quality music while waiting for your food! Filter by region, for 
 - <b>react-loader-spinner</b> (provides simple React SVG spinner component which can be implemented for async await operation before data loads to the view.)
 - <b>react-redux</b> (Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.)
 - <b>react-router-dom</b> (DOM bindings for React Router. react-router-dom is made for "Web application")
-- <b>unDraw</b> (for SVG images)
+- <b>IconFinder</b> (for SVG images)
 - <b>Prettier</b> (code formatter)
 
 ## Try it yourself
