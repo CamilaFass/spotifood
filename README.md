@@ -25,16 +25,15 @@ Listen to some quality music while waiting for your food! Filter by region, for 
 - npm install
 - npm start
 
-<br>
-
-### Next Steps
+## Next Steps
 
 - Make it responsive
 - Style colors better
 - Logout option
 
-### Final
+## Final
 
 Thank you for the opportunity! It was a great challenge.
 <br>
-You can find me on <a href="https://www.linkedin.com/in/fassarella/">LinkedIn</a>
+<br>
+You can find me on <a href="https://www.linkedin.com/in/fassarella/" target="_blank">LinkedIn</a>
