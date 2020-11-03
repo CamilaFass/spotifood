@@ -1,0 +1,50 @@
+.display {
+  display: grid;
+  grid-gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
+  height: 490px;
+  margin: 10px 25px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.displaybutton {
+  background-color: #41f02a;
+  border-radius: 100px;
+  border-width: 0px;
+  color: black;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-top: 25px;
+  height: 35px;
+  width: 80px;
+  outline: none;
+}
+
+.displaybutton:hover {
+  background-color: #41f02a;
+}
+
+.displayheader {
+  display: flex;
+  flex-direction: row;
+}
+
+.displaylist {
+  display: flex;
+  flex-direction: column;
+  height: 490px;
+  margin: 10px 25px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.displaytitle {
+  margin: 25px;
+  text-align: left;
+}
