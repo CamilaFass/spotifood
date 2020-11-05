@@ -27,9 +27,11 @@ Listen to some quality music while waiting for your food! Filter by region, for 
 
 ## Next Steps
 
+- Deploy
 - Make it responsive
 - Style colors better
 - Logout option
+- Testing
 
 ## Final
 
